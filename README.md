@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ThuyenPV/Testnet-Wallet/blob/main/screenshots/logo.png" alt="Screenshot" width="50" height="50"/>
+<img src="https://github.com/ThuyenPV/Testnet-Wallet/blob/main/screenshots/logo.png" alt="Screenshot" width="80" height="80"/>
 
 #### Testnet Wallet is the official cryptocurrency wallet of Testnet Network ⚡️ • 🌎 [Update later] https://play.google.com/
 
@@ -11,7 +11,7 @@
 
 |                                                                                                                                                          |                                                                                                                                                          |                                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/ThuyenPV/Testnet-Wallet/blob/main/screenshots/screenshot_1.jpg" height="400" alt="Screenshot"/> | <img src="https://github.com/ThuyenPV/Testnet-Wallet/blob/main/screenshots/screenshot_2.jpg" height="400" alt="Screenshot"/> | <img src="https://github.com/ThuyenPV/Testnet-Wallet/blob/main/screenshots/screenshot_3.jpg" height="400" alt="Screenshot"/> |
+| <img src="https://github.com/ThuyenPV/Testnet-Wallet/blob/main/screenshots/screenshot_4.jpg" height="400" alt="Screenshot"/> | <img src="https://github.com/ThuyenPV/Testnet-Wallet/blob/main/screenshots/screenshot_2.jpg" height="400" alt="Screenshot"/> | <img src="https://github.com/ThuyenPV/Testnet-Wallet/blob/main/screenshots/screenshot_3.jpg" height="400" alt="Screenshot"/> |
 |                                                                                                                                                          |                                                                                                                                                          |                                                              
 
 ## Features
