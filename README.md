@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ThuyenPV/Testnet-Wallet/blob/main/screenshots/logo.png" alt="Screenshot" width="100" height="100"/>
+<img src="https://github.com/ThuyenPV/Testnet-Wallet/blob/main/screenshots/logo.png" alt="Screenshot" width="50" height="50"/>
 
 #### Testnet Wallet is the official cryptocurrency wallet of Testnet Network ⚡️ • 🌎 [Update later] https://play.google.com/
 
