@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ThuyenPV/Testnet-Wallet/blob/main/screenshots/logo.png" alt="Proxyman screenshot" width="50%" height="auto"/>
+<img src="https://github.com/ThuyenPV/Testnet-Wallet/blob/main/screenshots/logo.png" alt="Screenshot" width="100" height="100"/>
 
 #### Testnet Wallet is the official cryptocurrency wallet of Testnet Network ⚡️ • 🌎 [Update later] https://play.google.com/
 
@@ -23,9 +23,9 @@
 * ✅ Popular marketplace NFT, rare digital items and crypto collectibles
 * 🔍 Request Feature
 
-### Proxyman for iOS
-- Screenshot: https://proxyman.io/ios
-- AppStore: https://apps.apple.com/us/app/proxyman/id1551292695
+### Testnet Wallet for iOS
+- Screenshot: https://play.google.com/
+- AppStore: https://play.google.com/
 
 ## Download
 * [Testnet Wallet 1.0.0](https://play.google.com/)
