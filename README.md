@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/" alt="Proxyman screenshot" width="50%" height="auto"/>
+<img src="https://github.com/ThuyenPV/Testnet-Wallet/blob/main/screenshots/logo.png" alt="Proxyman screenshot" width="50%" height="auto"/>
 
 #### Testnet Wallet is the official cryptocurrency wallet of Testnet Network ⚡️ • 🌎 [Update later] https://play.google.com/
 
@@ -11,7 +11,7 @@
 
 |                                                                                                                                                          |                                                                                                                                                          |                                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/ThuyenPV" height="400" alt="Screenshot"/> | <img src="https://github.com/ThuyenPV/" height="400" alt="Screenshot"/> | <img src="https://github.com/ThuyenPV/" height="400" alt="Screenshot"/> |
+| <img src="https://github.com/ThuyenPV/Testnet-Wallet/blob/main/screenshots/screenshot_1.jpg" height="400" alt="Screenshot"/> | <img src="https://github.com/ThuyenPV/Testnet-Wallet/blob/main/screenshots/screenshot_2.jpg" height="400" alt="Screenshot"/> | <img src="https://github.com/ThuyenPV/Testnet-Wallet/blob/main/screenshots/screenshot_3.jpg" height="400" alt="Screenshot"/> |
 |                                                                                                                                                          |                                                                                                                                                          |                                                              
 
 ## Features
