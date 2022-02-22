@@ -1,7 +1,7 @@
 
 <img src="https://github.com/ThuyenPV/Testnet-Wallet/blob/main/screenshots/logo.png" alt="Screenshot" width="50" height="50"/>
 
-#### Testnet Wallet is the official cryptocurrency wallet of Testnet Network ⚡️ • 🌎 [Update later] https://play.google.com/
+#### Testnet Wallet is the official cryptocurrency wallet of Testnet Network ⚡️ • 🌎 https://play.google.com/store/apps/details?id=com.token.air_wallet
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://ko-fi.com/zuyenz)
 
@@ -27,8 +27,7 @@
 * 🔍 Request Feature
 
 ### Testnet Wallet Store
-- Screenshot: https://play.google.com/
-- CH Play: https://play.google.com/
+- CH Play: https://play.google.com/store/apps/details?id=com.token.air_wallet
 
 ## Download
 * [Testnet Wallet 1.0.0](https://play.google.com/)
