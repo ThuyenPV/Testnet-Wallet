@@ -30,7 +30,7 @@
 - CH Play: https://play.google.com/store/apps/details?id=com.token.air_wallet
 
 ## Download
-* [Testnet Wallet 1.0.0](https://play.google.com/)
+* [Testnet Wallet 1.0.1](https://play.google.com/store/apps/details?id=com.token.air_wallet)
 
 ## Have a problem?
 
